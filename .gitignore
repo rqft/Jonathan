@@ -5,4 +5,11 @@ world_nether/
 world_the_end/
 logs/
 # these will load when you run the server
-plugins/**/
+plugins/PluginMetrics/**/
+plugins/WorldGuard/**/
+plugins/WorldEdit/**/
+plugins/LuckPerms/**/
+plugins/Essentials/**/
+plugins/Essentials/usermap.csv
+plugins/LuckPerms/luckperms-h2.mv.db
+plugins/LuckPerms/contexts.json
