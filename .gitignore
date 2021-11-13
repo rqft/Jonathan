@@ -13,3 +13,5 @@ plugins/Essentials/**/
 plugins/Essentials/usermap.csv
 plugins/LuckPerms/luckperms-h2.mv.db
 plugins/LuckPerms/contexts.json
+whitelist.json
+usercache.json
