@@ -1,0 +1,8 @@
+banned-ips.json
+banned-players.json
+world/
+world_nether/
+world_the_end/
+logs/
+# these will load when you run the server
+plugins/**/
