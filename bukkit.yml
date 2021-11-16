@@ -21,7 +21,7 @@ settings:
   connection-throttle: 4000
   query-plugins: true
   deprecated-verbose: default
-  shutdown-message: "\xc2\xa7e[Jonathan]\xc2\xa76 This server has shut down"
+  shutdown-message: "\xa7e[Jonathan]\xa76 This server has shut down"
 spawn-limits:
   monsters: 70
   animals: 15

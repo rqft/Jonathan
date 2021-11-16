@@ -1,16 +1,25 @@
 # Configuration for the random teleport command.
 # Some settings may be defaulted, and can be changed via the /settpr command in-game.
+
 min-range: 0.0
 excluded-biomes:
-  - cold_ocean
-  - deep_cold_ocean
-  - deep_frozen_ocean
-  - deep_lukewarm_ocean
-  - deep_ocean
-  - deep_warm_ocean
-  - frozen_ocean
-  - frozen_river
-  - lukewarm_ocean
-  - ocean
-  - river
-  - warm_ocean
+- cold_ocean
+- deep_cold_ocean
+- deep_frozen_ocean
+- deep_lukewarm_ocean
+- deep_ocean
+- deep_warm_ocean
+- frozen_ocean
+- frozen_river
+- lukewarm_ocean
+- ocean
+- river
+- warm_ocean
+center:
+  world: b70382bb-b22a-41c6-8af7-ac9056a868f8
+  world-name: world
+  x: 160.73357370354395
+  y: 100.44921344714943
+  z: 76.79021514431857
+  yaw: 138.59994506835938
+  pitch: 21.149999618530273
