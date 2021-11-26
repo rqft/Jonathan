@@ -515,8 +515,8 @@ allow-silent-join-quit: false
 # {ONLINE} - The number of players online.
 # {UNIQUE} - The number of unique players to join the server.
 # {UPTIME} - The amount of time the server has been online.
-custom-join-message: "&a[ &e+ &a] {PLAYER} &8(&7{USERNAME}&8)&a joined the server"
-custom-quit-message: "&c[ &e- &c] {PLAYER} &8(&7{USERNAME}&8)&c left the server"
+custom-join-message: "&a[ &e+ &a] {PLAYER} &8(&7{USERNAME}&8)&a joined the server&r"
+custom-quit-message: "&c[ &e- &c] {PLAYER} &8(&7{USERNAME}&8)&c left the server&r"
 
 # You can set a custom join message for users who join with a new username here.
 # This message will only be used if a user has joined before and have since changed their username.
@@ -532,7 +532,7 @@ custom-quit-message: "&c[ &e- &c] {PLAYER} &8(&7{USERNAME}&8)&c left the server"
 # {ONLINE} - The number of players online.
 # {UNIQUE} - The number of unique players to join the server.
 # {UPTIME} - The amount of time the server has been online.
-custom-new-username-message: "&a[ &e+ &a] {PLAYER} &8(&7{USERNAME} &8 [previously &7{OLDUSERNAME}&8])&a joined the server"
+custom-new-username-message: "&a[ &e+ &a] {PLAYER} &8(&7{USERNAME} &8 [previously &7{OLDUSERNAME}&8])&a joined the server&r"
 
 # Should Essentials override the vanilla "Server Full" message with its own from the language file?
 # Set to false to keep the vanilla message.
